@@ -1,0 +1,155 @@
+html {
+  /*font-family: 'Droid Sans';*/
+
+}
+
+body {
+  background-image: url('background_black.jpg');
+  margin: 10px;
+  font-family: 'Source Sans Pro';
+  /*font-family: 'Raleway';*/
+
+}
+
+.well {
+  padding: 5px;
+}
+
+.darkWell {
+  background-color: #2D2D2D;
+  color: #A8ABB2;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #057965;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.page-header {
+  font-family: "Montserrat";
+}
+
+
+a:link {
+ color: #057965;
+ text-decoration: none;
+}
+a:visited {
+  color: #057965;
+  text-decoration: none;
+}
+a:hover {
+  color: #057965;
+  text-decoration: none;
+}
+a:active {
+  color: #057965;
+  text-decoration: none;
+}
+
+
+/*      Links!     */
+.primaryButton {
+  text-align: center;
+  margin: 0px 5px 5px 0px;
+	background-color:#057965;
+  border: none;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 10px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  border-radius: 2px;
+}
+.primaryButton:hover {
+  background-color: #08C9A9;
+  border-color: #08C9A9;
+  text-decoration:none;
+  color: white;
+}
+.primaryButton:visited {
+  background-color: #057965;
+  border-color: #08C9A9;
+  text-decoration:none;
+  color: white;
+}
+.primaryButton:active {
+	position:relative;
+  text-decoration:none;
+	top:1px;
+}
+.secondaryButton {
+  text-align: center;
+  margin: 0px 5px 5px 0px;
+	background-color:#999999;
+  border: none;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding: 10px 10px;
+	text-decoration:none;
+  border-radius: 2px;
+}
+.secondaryButton:hover {
+  background-color: #08C9A9;
+  border-color: #08C9A9;
+  text-decoration:none;
+  color: white;
+}
+.secondaryButton:visited {
+  background-color: #999999;
+  border-color: #08C9A9;
+  text-decoration:none;
+  color: white;
+}
+.secondaryButton:active {
+	position:relative;
+  text-decoration:none;
+	top:1px;
+}
+
+
+.color1 {
+  background-color: #057965;
+  width: 100px;
+  height: 100px;
+}
+.color1sub1 {
+  background-color: #034035;
+  width: 100px;
+  height: 50px;
+}
+.color1sub2 {
+  background-color: #A7E5D6;
+  width: 100px;
+  height: 50px;
+}
+
+.color2 {
+  background-color: #484848;
+  width: 100px;
+  height: 100px;
+}
+.color2sub1 {
+  background-color: #2D2D2D;
+  width: 100px;
+  height: 50px;
+}
+.color2sub2 {
+  background-color: #999999;
+  width: 100px;
+  height: 50px;
+}
